@@ -36,7 +36,7 @@ const Navbar:FC = () => {
     ];
   return (
     <>
-    <div className=" flex justify-between items-center w-full h-12 px-4 text-white bg-black fixed nav lg:px-[10rem]">
+    <div className="flex justify-between items-center w-full h-12 px-2 text-white bg-black sticky z-40 top-0 nav lg:px-[5rem]">
       <div>
         {/* <h1 className="text-5xl font-signature ml-2"><a className="link-underline hover:transition ease-in-out delay-150 hover:underline hover:decoration-solid" href="">Logo</a></h1> */}
         <h1 className="text-3xl font-signature ml-2">
