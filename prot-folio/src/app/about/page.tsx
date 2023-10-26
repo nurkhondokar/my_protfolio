@@ -1,12 +1,11 @@
-import Product from '@/components/product/product'
+import AboutSection from '@/components/aboutSection/aboutSection'
 import React from 'react'
 
 
 const About = () => {
   return (
     <div>
-        <h1>Hi i am about page.................</h1>
-        <Product/>
+        <AboutSection/>  
     </div>
   )
 }
