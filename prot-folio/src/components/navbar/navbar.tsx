@@ -42,9 +42,7 @@ const Navbar:FC = () => {
         <h1 className="text-3xl font-signature ml-2">
           <Link
             className="link-underline link-underline-black"
-            href=""
-            target="_blank"
-            rel="noreferrer"
+            href="/"
           >
             NK-DEV
           </Link>
