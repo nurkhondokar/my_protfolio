@@ -21,7 +21,7 @@ const Navbar:FC = () => {
       {
         id: 3,
         link: "Skill",
-        url:"skill"
+        url:"/#skill"
       },
       {
         id: 4,
